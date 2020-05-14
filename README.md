@@ -2,7 +2,7 @@
 
 I have written a blog post for this project, you can have a look at it [here](https://medium.com/@restevesd/mejor-ubicaci%C3%B3n-para-puntos-de-atenci%C3%B3n-entidades-financiera-67887128e1dd)
 
-<img src='./visualizations/airbnb_indoor.jpg'>
+<img src='./visualizations/Banks-Financial-Institutions.jpg' alt='Photo https://www.flexi.com/'>
 
 This repo contains analysis of point of interest in Guayaquil from a bank institution<br>
 Analysis follows ***`CRISP-DM`*** process!<br>
@@ -26,7 +26,6 @@ This repo contains all of the above mentioned steps in `airbnb-analysis.ipynb`.
 - [Motivation](#motivation)
 - [Results](#results)
 - [Creator](#creator)
-- [Thanks](#thanks)
 
 
 ## Installation
@@ -77,25 +76,13 @@ Working on these aspects related to business or real-world applications of how t
 - Occupancy rate and Number of reviews over time
 - Price Modelling
 
-## Results
-- The **busiest time** of the year is during `summer and winter(new year)`. 
-- Most of the properties are booked and unvailable during this time, most of them are occupied and have **highest prices** in the year. 
-- Property Price highly depends on the **neighbourhood**, the location where it is situated. `Downtown` in seattle has **highest rates**.
-- The most **popular house size** in Seattle are houses for `2 or 4 persons`. 
-- Tourist prefer to rent an entire house over a private room and a shared room. 
-- `Number of bedrooms` is the **most influencing criteria** for *price prediction*.
+## Results 
+- Found that we can divide the bank's points of attention into **two categories**
+- In one category we can see that a common characteristic is being close to **seafood restaurants**, then **fast food restaurants**. 
+- In cluster 2 we see that **commercial premises for office elements predominate**
 
 ## Creator
 
-**Nilesh Sonawane**
+**Roberto Esteves**
 
-- <https://github.com/s-nilesh>
-
-
-## Thanks
-
-<a href="https://airbnb.com">
-  <img src="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/102014/airbnb.png?itok=d2X_Ds1a" alt="Airbnb Logo">
-</a>
-
-Thanks to [Airbnb](https://airbnb.com) for providing cool data!
+- <https://github.com/restevesd/>
