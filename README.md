@@ -17,25 +17,14 @@ This data is scrap from google map.<br>
 - Evaluation
 - Setting out (information to stakeholder)
 
-This repo contains all of the above mentioned steps in `airbnb-analysis.ipynb`. 
+This repo contains all of the above mentioned steps in `udacity.ipynb`. 
 
 ## Table of contents
 
-- [Installation](#installation)
 - [File descriptions](#file-descriptions)
 - [Motivation](#motivation)
 - [Results](#results)
 - [Creator](#creator)
-
-
-## Installation
-
-In order to be able to execute your own python statements follow this command to install all requirments:<br>
-- `pip install -r requirements.txt`
-
-Two quick start options are available:
-- [Download the latest release.](https://github.com/s-nilesh/AirBnB-Data-Analysis/archive/master.zip)
-- Clone the repo: `git clone https://github.com/s-nilesh/AirBnB-Data-Analysis.git`
 
 
 ## File descriptions
@@ -48,20 +37,7 @@ Udacity/
 +-- datos.csv
 +-- README.md
 +-- visualizations
-    +-- Average price for each accommodates type.png
-    +-- average price for month.png
-    +-- average price for neighbourhood.png
-    +-- calendar_percantage_of_MissingValues.png
-    +-- feature importances.png
-    +-- listings_percentage_of_MissingValues.png
-    +-- number of available listings.png
-    +-- Number of listings for each accommodates type.png
-    +-- number of listings not available.png
-    +-- Number of listings registered each month.png
-    +-- number_of_reviews_overtime.png
-    +-- occupancy rate over time.png
-    +-- Price_distrubution.png
-    +-- Reviews_distrubution.png
+    +-- Banks-Financial-Institutions.jpg
 ```
 
 - udacity.ipynb ==> Notebook to investigate about point of interest.
@@ -70,11 +46,9 @@ Udacity/
 
 ## Motivation
 Working on these aspects related to business or real-world applications of how the data could be used:
-- Prices Overview
-- Listings count Overview
-- Find busiest time of the year for this city
-- Occupancy rate and Number of reviews over time
-- Price Modelling
+- Location Overview
+- Types of business nearby
+- Where to put a point of attention
 
 ## Results 
 - Found that we can divide the bank's points of attention into **two categories**
