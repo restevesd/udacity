@@ -1,10 +1,10 @@
-# Bank's points of interest in Guayaquil
+# Bank's points of attention in Guayaquil
 
-I have written a blog post for this project, you can have a look at it [here](https://medium.com/@restevesd/mejor-ubicaci%C3%B3n-para-puntos-de-atenci%C3%B3n-entidades-financiera-67887128e1dd)
+I have written a blog post for this project, you can have a look at it [here](https://medium.com/@restevesd/best-location-for-financial-institutions-service-points-181fb9d2b4ad)
 
 <img src='./visualizations/Banks-Financial-Institutions.jpg' alt='Photo https://www.flexi.com/'>
 
-This repo contains analysis of point of interest in Guayaquil from a bank institution<br>
+This repo contains analysis of point of attentiont in Guayaquil from a bank institution<br>
 Analysis follows ***`CRISP-DM`*** process!<br>
 
 This data is scrap from google map.<br>
