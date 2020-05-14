@@ -34,7 +34,7 @@ Within the download you'll find the following directories and files.
 ```text
 Udacity/
 +-- udacity.ipynb
-+-- datos.csv
++-- limpioDataSet.csv
 +-- README.md
 +-- visualizations
     +-- Banks-Financial-Institutions.jpg
